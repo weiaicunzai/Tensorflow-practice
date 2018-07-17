@@ -9,7 +9,10 @@ to use Keras as Tensorflow's high level API
 ## Requirement
 
 Tensorflow 1.4
+Python 3.5
 
 
 ## Edit
-This repo is inspired by [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials), hats off to him
+This repo is inspired by [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials), hats off to him.
+I was going to use jupyter notebook to write the tutorial, but jupyter can't use VIM(at least I
+dont not know how), So I would write this in the plain python file
