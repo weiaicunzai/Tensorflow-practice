@@ -11,6 +11,11 @@ to use Keras as Tensorflow's high level API
 Tensorflow 1.4
 Python 3.5
 
+## Practice
+
+- Simple Linear Model (achieve 91% accuracy on test dataset)
+- Convolutional Neural Network (achieve 95.3% max)
+
 
 ## Edit
 This repo is inspired by [Hvass-Labs/TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials), hats off to him.

@@ -235,3 +235,17 @@ optimize(num_iterations=1)
 print_accuracy()
 plot_example_errors()
 plot_weights()
+
+
+# run 9 iterations:
+optimize(num_iterations=9)
+
+print_accuracy()
+plot_example_errors()
+plot_weights()
+
+
+# run anther 990 iterations
+optimize(num_iterations=990)
+print_accuracy()
+plot_example_errors()
