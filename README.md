@@ -8,13 +8,14 @@ to use Keras as Tensorflow's high level API
 
 ## Requirement
 
-Tensorflow 1.4
-Python 3.5
+- Tensorflow 1.4
+- Python 3.5
 
 ## Practice
 
 - Simple Linear Model (achieve 91% accuracy on test dataset)
 - Convolutional Neural Network (achieve 95.3% max)
+- Keras API Practice (achieve 98% accuracy)
 
 
 ## Edit
